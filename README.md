@@ -1,2 +1,2 @@
 # prvni-webovky-Tereza-Hamerova
-první pokus o webové stránky 
+První pokus o tvorbu webových stránek tvořený v rámci Junior Guru Challenge  https://github.com/juniorguru/challenge. 
