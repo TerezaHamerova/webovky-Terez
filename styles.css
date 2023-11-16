@@ -1,5 +1,5 @@
 body {
-    background-color: #4C4B16;
+    background-color:  #898121;
     font-family:monospace
     }
  
@@ -37,8 +37,8 @@ body {
  
  article {
     width: 95%;
-    background-color: #898121;
-    color: #F7F1E5;
+    background-color:#F7F1E5;
+    color: #4C4B16;
     font-size: 16px;
     padding: 10px;
  }
